@@ -80,6 +80,8 @@ For example:
 * Mechanical defect visualization
 * Educational experiments
 
+# YouTube Link:- [https://youtu.be/it-jdhMR7sY](https://youtube.com/shorts/QEk9EGT3YsI?feature=share)
+
 # Old Prototype using AT-MEGA328P
 
 An older version of this stroboscope prototype was previously developed using a different hardware/software implementation.
