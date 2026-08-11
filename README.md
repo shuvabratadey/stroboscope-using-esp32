@@ -80,7 +80,7 @@ For example:
 * Mechanical defect visualization
 * Educational experiments
 
-# YouTube Link:- [https://youtu.be/it-jdhMR7sY](https://youtube.com/shorts/QEk9EGT3YsI?feature=share)
+# YouTube Link:- https://youtube.com/shorts/wla5oE7BfEs
 
 # Old Prototype using AT-MEGA328P
 
