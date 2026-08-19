@@ -222,6 +222,8 @@ The original project documentation is available here:
 
 👉 [**View the ATmega328P Prototype Documentation**](https://github.com/shuvabratadey/stroboscope-using-esp32/blob/main/README_OLD.md)
 
+---
+
 ## 💻 ESP32 Stroboscope Program
 
 ```
